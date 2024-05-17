@@ -14,30 +14,34 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: GenomeLink.eu # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A personal genetics blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to “Your Genetic Blueprint,” a blog dedicated to exploring the fascinating world of personal genetics. Here, we delve into the intricacies of DNA, uncovering how our genetic makeup influences everything from our physical traits to our health and ancestry.
+
+  Join us as we discuss the latest advancements in genetic research, offer insights into the ethical considerations of genetic testing, and provide practical advice on how to interpret and use your genetic information. Whether you’re curious about your heritage, interested in personalized medicine, or simply fascinated by the science of genetics, our blog offers a wealth of knowledge to help you navigate your genetic journey.
+
+  Discover how the blueprint of life shapes who you are and what it means for your future. Let’s explore the story written in your genes, together.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://insilicodb.github.io"
 
-github:
-  username: github_username # change to your github username
+# github:
+#   username: github_username # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
-social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
-  links:
-    # The first element serves as the copyright owner''goatcounter'
+# social:
+#   # Change to your full name.
+#   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+#   name: your_full_name
+#   email: example@domain.com # change to your email address
+#   links:
+#     # The first element serves as the copyright owner''goatcounter'
 
 # Prefer color scheme setting.
 #
